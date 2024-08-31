@@ -1,0 +1,14 @@
+Strings:
+
+fstring
+print(f"Hello {first_name}")
+
+Typecasting:
+type(variable)
+
+User input:
+input()
+
+Last episode
+7 / if statements
+01:00:05
